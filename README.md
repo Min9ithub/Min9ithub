@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&text=Min9ithub&fontAlign=75&fontAlignY=36&desc=FrontEnd&descAlign=89.8&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Min9ithub&fontAlign=75&fontAlignY=36&desc=FrontEnd&descAlign=89.8&descAlignY=50&animation=twinkling)
 
 ⌨ Tech Stacks
 --
